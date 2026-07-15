@@ -1,0 +1,16 @@
+{
+  "name": "Mi Nutrición Familiar",
+  "short_name": "Mi Nutrición",
+  "description": "Base de alimentos, armador de dietas y seguimiento de progreso familiar",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f0e8",
+  "theme_color": "#2D5016",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["health", "food"],
+  "lang": "es"
+}
